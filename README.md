@@ -10,7 +10,7 @@ C'est la partie Back(Restful API) avec Spring Boot
 
 Le travail demande :
 
-Pour la partie Frontend :
+Pour la partie Frontend :https://github.com/Trister00/Projet-EIC-Frontend.git
 
 1-Authentification( avec du JWT)
 
