@@ -32,7 +32,7 @@ Pour la partie Backend:
 I-Un eleve peut postuler a une seul offre uniquement.
 II-Une offre peut avoir plusieurs postulant
 III-Un eleve peut voir les autre etudiants qui ont postule avec leurs notes/classement.
-IV-Un eleve peut anuller sa postulation avant un delai fixer
+IV-Un eleve peut annuler sa postulation avant un delai fixer
 
 2-Authentification(JWT)
 
